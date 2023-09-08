@@ -20,6 +20,9 @@ DACL(Degenerating Ambiguous-options via Contrastive Learning)
 └── t5_vanilla-DG_training // 存放 Distractor Generation 的程式碼，訓練模型的 DG 能力
 
 ```
+
+因為 data 不上傳，所以資料下載位置在 [data](https://drive.google.com/drive/folders/1lG7QaRkEXWUw7TBuYT5iLhcnRh06N6K-?usp=sharing)
+
 # 使用說明
 
 1. 準備資料
